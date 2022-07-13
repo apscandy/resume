@@ -1,7 +1,5 @@
 # Resume
 
-##
-
 ## Education
 ---
 ### Queensland University of Technology (QUT) | Brisbane, QLD
@@ -16,7 +14,7 @@ __Completed November 2021__
 ## Skills
 ---
 ### Programming
-Python, Go, Rust, Java, sql, HTML, CSS, Docker, Git,linux 
+Python, Go, Rust, Java, sql, HTML, CSS, Docker, Git 
 
 ### Databases
 Mysql, Postgress, Sqlite, MongoDB, Redis
@@ -24,7 +22,11 @@ Mysql, Postgress, Sqlite, MongoDB, Redis
 ### Platforms 
 Linux (Ubuntu, Kali, Debian, Red hat, Fedora), MacOS, Windows
 
-### Tools 
+### Cloud
+AWS, Azure, Linode, Google cloud platform 
+
+### Tools
+Postman, OWASP Zap, burp suite, 
 
 ## Experience
 ---
