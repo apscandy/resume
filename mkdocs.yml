@@ -2,29 +2,39 @@ site_name: Andrew Clarke
 extra_css:
   - stylesheets/extra.css
 theme:
+  icon:
+    repo: fontawesome/brands/github
+
   name: material
+
   font:
     text: Noto Sans
+
   features:
     - navigation.tabs
     - header.autohide
     - navigation.top
-  palette: 
 
-    # Palette toggle for light mode
+  palette: 
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/toggle-switch
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
+
 markdown_extensions:
   - meta
+
 extra:
   social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/github
+      link: https://github.com/apscandy
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/andrew-clarke-534a62195/
+
+repo_url: https://github.com/apscandy/resume
+repo_name: apscandy/resume
