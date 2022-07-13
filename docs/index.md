@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Resume
 
 ## Education
@@ -14,19 +20,43 @@ __Completed November 2021__
 ## Skills
 ---
 ### Programming
-Python, Go, Rust, Java, sql, HTML, CSS, Docker, Git 
+- Python
+- Go
+- Rust
+- Java
+- SQL
+- HTML
+- CSS
+- Docker
+- Git 
 
 ### Databases
-Mysql, Postgress, Sqlite, MongoDB, Redis
+- Mysql
+- Postgress
+- Sqlite
+- MongoDB
+- Redis
 
 ### Platforms 
 Linux (Ubuntu, Kali, Debian, Red hat, Fedora), MacOS, Windows
 
 ### Cloud
-AWS, Azure, Linode, Google cloud platform 
+- AWS
+- Azure
+- Linode
+- Google cloud platform 
 
 ### Tools
-Postman, OWASP Zap, burp suite, 
+- Postman 
+- OWASP Zap
+- burp suite
+- WireShark 
+- MySQL Workbench
+- PGadmin
+- Github Desktop
+- Ansible
+- Terraform
+
 
 ## Experience
 ---
