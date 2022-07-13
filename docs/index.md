@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  
 ---
 
 # Resume
@@ -84,7 +85,7 @@ client and Mwave standards.
 While I was this role I also trained in quality assurance and testing to meet
 Mwaves high standards of quality PCs
 
-### 7L solutions
+### 7L Solutions
 #### Technical Support agent | Sydney NSW | February 2017 - December 2018
 Responsible for taking and logging incoming calls and providing efficient
 customer support for all
@@ -109,7 +110,7 @@ software.
 - Keeping customers updated as to progress.
 - Resolved numerous issues through increased knowledge of the network. 
 
-### Angels for the forgotten inc
+### Angels for the Forgotten inc
 #### Technical Support Officer | Goulburn NSW | January 2016 - February 2017
 Customer service focused Technical Support Officer with 1-year
 career experience in help desk environments. Highly adept in systems analysis
@@ -124,17 +125,25 @@ environments and displays a strong work ethic.
 ## Leadership and Projects
 ---
 ### Google Developer Student Club Lead (QUT)
+#### GDSC Lead | June 2022 - Present 
 
 ### QUT Impact
+#### Treasurer | June 2022 - Present
 
 ### QUT Code Network
+#### Secretary | May 2022 - Present
 
 ### QUT White Hats
+#### General Executive  | January 2022 - Present
+
+### Student tutor
 
 ### Asynchronous blog platform
 
-### SSH log viewer admin panel
+### SSH log admin panel
 
 ### Discord bots
 
 ### Fake user dataclass package
+
+### Cloud home lab
