@@ -1,7 +1,8 @@
 site_name: Andrew Clarke
 
 
-  
+edit_uri: ""
+
 theme:
   icon:
     repo: fontawesome/brands/github
@@ -36,6 +37,9 @@ theme:
 
 markdown_extensions:
   - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra:
   social:

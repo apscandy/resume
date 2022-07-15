@@ -7,6 +7,11 @@ hide:
 
 # Resume
 
+!!! warning
+
+    This resume is under construction 
+
+
 ## Education
 ---
 
