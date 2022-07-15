@@ -9,7 +9,7 @@ hide:
 
 !!! warning
 
-    This resume is under construction 
+    This resume is under construction.
 
 
 ## Education
