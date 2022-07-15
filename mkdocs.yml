@@ -1,6 +1,6 @@
 site_name: Andrew Clarke
-extra_css:
-  - stylesheets/extra.css
+
+
   
 theme:
   icon:
@@ -10,22 +10,29 @@ theme:
 
   font:
     text: Noto Sans
+    code: Ubuntu
 
   features:
     - navigation.tabs
     - header.autohide
     - navigation.top
 
-  palette: 
+  palette:
+
     - scheme: default
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
 
     - scheme: slate
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
+
 
 markdown_extensions:
   - meta

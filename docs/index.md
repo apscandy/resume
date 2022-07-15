@@ -37,13 +37,17 @@ hide:
 - Redis
 
 ### Platforms 
-Linux (Ubuntu, Kali, Debian, Red hat, Fedora), MacOS, Windows
+- Linux (Ubuntu, Kali, Debian, Red Hat, Fedora)
+- MacOS
+- Windows
 
 ### Cloud
 - AWS
 - Azure
 - Linode
-- Google cloud platform 
+- Google cloud platform
+- Cloudflare
+- Heroku
 
 ### Tools
 - Postman 
@@ -55,6 +59,10 @@ Linux (Ubuntu, Kali, Debian, Red hat, Fedora), MacOS, Windows
 - Github Desktop
 - Ansible
 - Terraform
+- nmap
+- sqlmap
+- sslscan
+- mitmproxy
 
 
 ## Experience
@@ -125,7 +133,7 @@ environments and displays a strong work ethic.
 ## Leadership and Projects
 ---
 ### Google Developer Student Club Lead (QUT)
-#### GDSC Lead | June 2022 - Present 
+#### GDSC Lead | June 2022 - Present
 
 ### QUT Impact
 #### Treasurer | June 2022 - Present
@@ -136,14 +144,25 @@ environments and displays a strong work ethic.
 ### QUT White Hats
 #### General Executive  | January 2022 - Present
 
+### CTF administrator   
+
 ### Student tutor
+TAFE, QUT
 
 ### Asynchronous blog platform
+FastAPI, Postgress, Docker, Bootstrap, Redis, React
 
 ### SSH log admin panel
+flask, MySQL, Docker, Bootstrap
 
 ### Discord bots
+python, heroku
 
 ### Fake user dataclass package
+python package
 
 ### Cloud home lab
+ansilbe 
+terrafrom 
+docker
+cloudflare
